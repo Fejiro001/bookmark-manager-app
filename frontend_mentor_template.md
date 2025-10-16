@@ -926,7 +926,7 @@ tagSchema = {
 
 1. [x] Initialize Next.js project with TypeScript
 2. [x] Set up Tailwind CSS
-3. [ ] Install all dependencies
+3. [x] Install all dependencies
 4. [ ] Configure TypeScript (strict mode)
 5. [ ] Set up folder structure
 6. [x] Initialize Git repository
